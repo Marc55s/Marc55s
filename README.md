@@ -1,6 +1,6 @@
 
-Main language: Java
-Focused on Cryptography
++ Main language: Java
++ Focused on Cryptography
 
 <!---
 Marc55s/Marc55s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
