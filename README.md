@@ -1,6 +1,5 @@
 
-+ Main language: Java
-+ 
+
 <h3>Tools and Languages</h3> 
  
  
