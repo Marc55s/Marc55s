@@ -28,8 +28,3 @@
             <img height="48px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
       </table> 
       <hr>  
-
-<!---
-Marc55s/Marc55s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
