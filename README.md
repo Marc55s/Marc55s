@@ -2,10 +2,7 @@
 
 - ✅ C enjoyer
 - ✅ Spends more time configuring than being productive
-
-# Plans
-- [ ] Verwirrung mit Rust
-
+  
 ---
 
 ![nix](https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
