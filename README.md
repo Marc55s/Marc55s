@@ -1,7 +1,6 @@
 # Marc's Profile
 
 - ✅ C enjoyer
-- ✅ Spends more time configuring than being productive
 - Learning some Rust
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc55s&layout=compact&theme=dark)
