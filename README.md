@@ -3,7 +3,7 @@
 - ✅ C enjoyer
 - Learning some Rust
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc55s&layout=compact&theme=dark)
+![Tags](https://github-readme-stats.vercel.app/api/top-langs/?username=marc55s&layout=compact&theme=dark)
 ---
 
 ![nix](https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
