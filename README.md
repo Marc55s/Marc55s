@@ -6,6 +6,7 @@ Things I like to use:
 - ✅ Vim
 - ✅ Linux
 - ✅ Terminals
+- ❌ Javascript, PHP
 
 ## Tags
 ---
