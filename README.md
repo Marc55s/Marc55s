@@ -1,7 +1,11 @@
 # Marc's Profile
 
-- ✅ C enjoyer
-- Learning some Rust
+Things I like to use:
+- ✅ C
+- ✅ Rust
+- ✅ Vim
+- ✅ Linux
+- ✅ Terminals
 
 ## Tags
 ---
