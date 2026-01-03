@@ -1,10 +1,11 @@
-# Marc's Profile
+## Hey
+My name is Marc and i am a computer science student.
 
 Things I like to use:
 - ✅ C
 - ✅ Rust
 - ✅ Vim
-- ✅ Linux
+- ✅ NixOS
 - ✅ Terminals
 - ❌ Javascript, PHP
 
