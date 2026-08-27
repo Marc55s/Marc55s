@@ -55,16 +55,6 @@
 
 ---
 
-### `$ github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marc55s&hide_border=true&theme=tokyonight" />
-
-</div>
-
----
-
 ### `$ wakatime --coding-activity`
 
 [![wakatime](https://wakatime.com/badge/user/018e4cb7-f66f-4d6a-bd4e-02abb1009669.svg)](https://wakatime.com/@018e4cb7-f66f-4d6a-bd4e-02abb1009669)
