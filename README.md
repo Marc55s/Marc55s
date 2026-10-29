@@ -6,6 +6,9 @@
 
 </div>
 
+<div align="center">
+           Also checkout my other repos at <a href="https://codeberg.org/marc55s">Codeberg</a> (better uptime than GH btw)
+</div>
 ---
 
 ### `$ neofetch`
